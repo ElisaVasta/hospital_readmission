@@ -9,4 +9,5 @@ healthcare records and follow-up outcome data. The study collected information f
 
 All the information about the data can be found at this link:
 https://www.nature.com/articles/s41597-021-00835-9.
+
 Here you can download the data: https://springernature.figshare.com/articles/dataset/Metadata_record_for_Electronic_healthcare_records_and_external_outcome_data_for_hospitalized_patients_with_heart_failure/13064054.
